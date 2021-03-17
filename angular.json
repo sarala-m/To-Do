@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "/home/saralam/Music/angular/todoApp/node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "todoApp"
+    }
+  },
+  "defaultProject": "todoApp",
+  "cli": {
+    "analytics": false
+  }
 }
